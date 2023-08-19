@@ -19,7 +19,9 @@
 
 
 
-[![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaCasas)](https://github.com/CarolinaCasas/github-readme-stats)
+[![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaCasas&show_icons=true&theme=radical)]
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaCasas&show_icons=true)
 <--
 Here are some ideas to get you started:
 
