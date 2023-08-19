@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 
 
+
+[![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaCasas)](https://github.com/CarolinaCasas/github-readme-stats)
 <--
 Here are some ideas to get you started:
 
