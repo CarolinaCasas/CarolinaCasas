@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Anca Coder](https://github.com/CarolinaCasas/CarolinaCasas/assets/118369440/f03283a6-b35e-4c42-9145-c3975c49349e)
 
 
