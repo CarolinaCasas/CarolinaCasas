@@ -1,6 +1,4 @@
-![Anca Coder](https://github.com/CarolinaCasas/CarolinaCasas/assets/118369440/f03283a6-b35e-4c42-9145-c3975c49349e)
-
-
+![banner1](https://github.com/CarolinaCasas/CarolinaCasas/assets/118369440/c23231fb-ed90-49a8-a8c9-46950cb3cb91)
 
 ### Technical Skills
 
@@ -22,5 +20,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CarolinaCasas&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaCasas&theme=tokyonight" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaCasas&theme=tokyonight" />
 </a>
