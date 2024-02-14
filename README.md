@@ -1,6 +1,7 @@
-![banner1](https://github.com/CarolinaCasas/CarolinaCasas/assets/118369440/c23231fb-ed90-49a8-a8c9-46950cb3cb91)
+![banner1](https://github.com/CarolinaCasas/CarolinaCasas/assets/118369440/2cf43011-7719-40e6-bfe5-d7dda50b266e)
 
 ### Technical Skills
+
 
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
