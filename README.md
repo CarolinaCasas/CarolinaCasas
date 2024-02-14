@@ -17,9 +17,10 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=CarolinaCasas&show_icons=true&theme=merko" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaCasas&theme=merko" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=CarolinaCasas&show_icons=true&theme=merko" />
+</a>
+
